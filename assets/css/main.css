@@ -476,7 +476,7 @@ section {
     position: fixed;
     top: 20px;
     z-index: 9999;
-    right: 20px;
+    right: 10px;
   }
 
   .mobile-nav-toggle.bi-x {
